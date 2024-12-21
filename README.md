@@ -46,6 +46,7 @@ Cloned the project repository to local machine for further development.
 Implemented emotion detection functionality using Watson NLP libraries. The application processes text feedback and identifies emotions.
 
 ![Emotion Detection Code](images/2a_emotion_detection.png)
+
 ![Application Creation](images/2b_application_creation.png)
 
 ### Task 3: Format the Application Output
