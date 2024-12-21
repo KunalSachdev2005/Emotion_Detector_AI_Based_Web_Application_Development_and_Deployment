@@ -53,37 +53,44 @@ Implemented emotion detection functionality using Watson NLP libraries. The appl
 Enhanced the output format to improve readability and usability of results.
 
 ![Output Formatting Code](images/3a_output_formatting.png)
+
 ![Formatted Output Test](images/3b_formatted_output_test.png)
 
 ### Task 4: Package the Application
 Packaged the application for easy distribution and deployment.
 
 ![Packaging](images/4a_packaging.png)
+
 ![Packaging Test](images/4b_packaging_test.png)
 
 ### Task 5: Run Unit Tests
 Developed and executed unit tests to ensure the reliability and correctness of the application.
 
 ![Unit Testing Code](images/5a_unit_testing.png)
+
 ![Unit Testing Results](images/5b_unit_testing_result.png)
 
 ### Task 6: Deploy the Application Using Flask
 Deployed the emotion detection application as a web app using Flask, enabling users to interact with it through a browser interface.
 
 ![Server Deployment](images/6a_server.png)
+
 ![Deployment Test](images/6b_deployment_test.png)
 
 ### Task 7: Incorporate Error Handling
 Added error handling to manage invalid inputs, server errors, and other edge cases gracefully.
 
 ![Error Handling Code](images/7a_error_handling_function.png)
+
 ![Error Handling Server](images/7b_error_handling_server.png)
+
 ![Error Handling Interface](images/7c_error_handling_interface.png)
 
 ### Task 8: Run Static Code Analysis
 Performed static code analysis to ensure adherence to coding standards and identify potential issues.
 
 ![Modified Server Code](images/8a_server_modified.png)
+
 ![Static Code Analysis](images/8b_static_code_analysis.png)
 
 ## Project Certificate
