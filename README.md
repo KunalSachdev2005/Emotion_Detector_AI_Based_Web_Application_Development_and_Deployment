@@ -15,7 +15,7 @@ This repository contains the implementation of an AI-based Emotion Detection App
   - [Task 6: Deploy the Application Using Flask](#task-6-deploy-the-application-using-flask)
   - [Task 7: Incorporate Error Handling](#task-7-incorporate-error-handling)
   - [Task 8: Run Static Code Analysis](#task-8-run-static-code-analysis)
-- [Project Certificate](#project-certificate)
+- [Course Certificate](#course-certificate)
   
 ## Overview
 The AI Emotion Detection Application processes customer feedback provided in text format and identifies the associated emotions. Using Watson NLP libraries, the application extracts emotions like joy, sadness, and anger, providing businesses with actionable insights into customer sentiments.
@@ -93,5 +93,5 @@ Performed static code analysis to ensure adherence to coding standards and ident
 
 ![Static Code Analysis](images/8b_static_code_analysis.png)
 
-## Project Certificate
+## Course Certificate
 You can view the course certificate [here](https://github.com/KunalSachdev2005/Emotion_Detector_AI_Based_Web_Application_Development_and_Deployment/blob/main/Developing_AI_Applications_with_Python_and_Flask_Certificate.pdf).
